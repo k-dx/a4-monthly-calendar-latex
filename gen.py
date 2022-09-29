@@ -3,7 +3,7 @@ from math import floor
 ############# BEGIN CONFIG ############# 
 
 # change 28 to 29 if necessary
-days_per_month = [ 31, 28, 31, 30, 31, 30, 31, 30, 31, 30, 31, 30 ]
+days_per_month = [ 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 ]
 year = "2023"
 month_names = [
     "Styczeń",
